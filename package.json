@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "unzip@0.1.20",
+      "unzip@0.1.21",
       "/Users/zucatti/Desktop/Omneedia.app/Contents/Resources/Scripts/bin"
     ]
   ],
-  "_from": "unzip@0.1.20",
-  "_id": "unzip@0.1.20",
+  "_from": "unzip@0.1.21",
+  "_id": "unzip@0.1.21",
   "_inCache": true,
   "_installable": true,
   "_location": "/unzip",
@@ -25,10 +25,10 @@
   },
   "_requested": {
     "name": "unzip",
-    "raw": "unzip@0.1.20",
-    "rawSpec": "0.1.20",
+    "raw": "unzip@0.1.21",
+    "rawSpec": "0.1.21",
     "scope": null,
-    "spec": "0.1.20",
+    "spec": "0.1.21",
     "type": "version"
   },
   "_requiredBy": [
@@ -37,7 +37,7 @@
   "_resolved": "https://registry.npmjs.org/unzip/-/unzip-0.1.11.tgz",
   "_shasum": "89749c63b058d7d90d619f86b98aa1535d3b97f0",
   "_shrinkwrap": null,
-  "_spec": "unzip@0.1.11",
+  "_spec": "unzip@0.1.21",
   "_where": "/Users/zucatti/Desktop/Omneedia.app/Contents/Resources/Scripts/bin",
   "author": {
     "email": "eoxfeld@gmail.com",
@@ -102,5 +102,5 @@
   "scripts": {
     "test": "tap ./test/*.js"
   },
-  "version": "0.1.20"
+  "version": "0.1.21"
 }

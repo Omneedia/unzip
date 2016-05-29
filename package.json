@@ -1,11 +1,11 @@
 {
   "_args": [
     [
-      "unzip@0.1.11",
+      "unzip@0.1.20",
       "/Users/zucatti/Desktop/Omneedia.app/Contents/Resources/Scripts/bin"
     ]
   ],
-  "_from": "unzip@0.1.11",
+  "_from": "unzip@0.1.20",
   "_id": "unzip@0.1.20",
   "_inCache": true,
   "_installable": true,
